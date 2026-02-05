@@ -1,0 +1,25 @@
+I am Zuhao Liu, a final year Master student at Sun Yat-sen University working with Wei-Shi Zheng. Currently I am also a graduate research intern at INSAIT, Sofia University working with Luc Van Gool and Danda Paudel. My bachelor degree was finished at University of Electronic Science and Technology of China. I also interned at Baidu and NetEase as machine learning engineer. My research interests mainly foucs on visual generative model (image/video generation), video understanding and computer graphics. As a beginner of visual computing, I am actively engaging research of different areas, and trying to make any possible contribution to the community
+
+
+
+
+Dear ELLIS PhD Admissions Committee,
+
+I hope this message finds you well. I am writing to kindly request an update to the email address for one of my recommenders in my PhD application.
+
+While filling out the recommendation details, I initially provided the email address for Dr. Danda Paudel as paudel@vision.ee.ethz.ch. However, we recently realized that this email address is no longer valid. Could you please update Dr. Paudel's email to danda.paudel@insait.ai and resend the recommendation link to this new address?
+
+I apologize for any inconvenience this may cause and appreciate your assistance in ensuring that my application can proceed smoothly.
+
+Thank you for your understanding and help.
+
+Best regards,
+[Your Full Name]
+
+
+
+
+
+
+
+Advances in video generation have significantly improved the realism and quality of created scenes. This has fueled interest in developing intuitive tools that let users leverage video generation as world simulators. Text-to-video (T2V) generation is one such approach, enabling video creation from text descriptions only. Yet, due to the inherent ambiguity in texts and the limited temporal information offered by text prompts, researchers have explored additional control signals like trajectory-guided systems, for more accurate T2V generation. Nonetheless, methods to evaluate whether T2V models can generate realistic interactions between multiple objects are lacking. We introduce InTraGen, a pipeline for improved trajectory-based generation of object interaction scenarios. We propose 4 new datasets and a novel trajectory quality metric to evaluate the performance of the proposed InTraGen. To achieve object interaction, we introduce a multi-modal interaction encoding pipeline with an object ID injection mechanism that enriches object-environment interactions. Our results demonstrate improvements in both visual fidelity and quantitative performance. Code and datasets are available at https://github.com/insait-institute/InTraGen
